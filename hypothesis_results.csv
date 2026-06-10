@@ -1,0 +1,4 @@
+Hypothesis,Test_Used,P_Value,Result
+Expert vs Beginner Earnings,T-test,0.6402,No significant difference
+Fixed vs Hourly Earnings,T-test,0.817,No significant difference
+High Rating vs Rehire Rate,Chi-square,0.0975,No significant difference
